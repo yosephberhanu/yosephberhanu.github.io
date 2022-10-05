@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Yoseph Berhanu
-  tagline: Developer, Researcher, Teacher
+  tagline: Developer, Teacher, Conslutant
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -20,10 +20,11 @@ sidebar:
   linkedin: yosephberhanu
   # xing: alandoe
   github: yosephberhanu
-  telegram: yosephberhanu
-  gitlab: yosephberhanu
-  # bitbucket:
+  # telegram: yosephberhanu
+  # gitlab: yosephberhanu
+  # bitbucket:'yosephberhanu'
   twitter: 'yosephberhanu'
+  medium: 'yosephberhanu'
   # stack-overflow: # Number/Username, e.g. 123456/alandoe
   # codewars:
   # goodreads: # Number-Username, e.g. 123456-alandoe
@@ -39,15 +40,15 @@ sidebar:
         level: Professional
 
   interests:
-    title: Interests
+    title: Research Interests
     info:
-      - item: Climbing
+      - item: Cognitive Support Systems
         link:
 
-      - item: Snowboarding
+      - item: Human In the Loop AI
         link:
 
-      - item: Cooking
+      - item: Cognitive Science
         link:
 
 career-profile:
@@ -86,6 +87,13 @@ experiences:
       time: 2014 - Present
       company: Department of Computer Science, Addis Ababa University, Ethiopia
       details: |
+        <b>Courses Thought</b>: Introduction to Algorithms, Introduction to Computer Science, Introduction to Programming, Advanced Programming in Unix Environment, Object Oriented Programming.
+        <br />
+        <b>Other tasks</b>: I am currently supervising a group of undergraduate students for a research project titled 4kbots with the aim of participating in the first RoboCup Soccer match in Africa under the medium size humanoid league, which is to be held by the end of 2016.
+    - role: LIS consultant
+      time: April 2022 - Present
+      company: World Bank Group
+      details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -98,8 +106,13 @@ experiences:
           - Bullet point
           - Bullet point
     - role: Tech Lead
-      time: 2019 - 2021
+      time: Dec 2019 - Aug 2021
       company: Digital Medarbieder, Oslo
+      details: |
+        In addition to working as a tech lead, I design the CI/CD and Azure based deployment environment ( Azure App Service, Keyvault, Cosmos DB, Azure Functions, VMs etc..).
+    - role: Information Technology Consultant
+      time: Jul 2021 - Present
+      company: NIRAS Finland OY REILA Project
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -126,21 +139,13 @@ projects:
     section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-    - title: Velocity
-      link: '#hook'
-      tagline: 'A responsive website template designed to help startups promote, market and sell their products.'
+    - title: 4K Bots
+      link: 'http://4kbots.com'
+      tagline: "As a founding member of 4K bots (now 4K Labs), I've worked on a number of AI and IoT projects inlcuding, RoboCup: soccer playing robot, Mini Self driving car, Smart home with Smart Liging and smart mirror. The detailed project list and description can be found on the lab's <a href='http://4kbots.com'>website</a>."
 
-    - title: DevStudio
+    - title: iMASSREG & iWORLAIS
       link: '#'
       tagline: 'A responsive website template designed to help web developers/designers market their services.'
-
-    - title: Tempo
-      link: '#'
-      tagline: 'A responsive website template designed to help startups promote their products or services and to attract users &amp; investors'
-
-    - title: Atom
-      link: '#'
-      tagline: 'A comprehensive website template solution for startups/developers to market their mobile apps.'
 
     - title: Delta
       link: '#'
@@ -153,20 +158,10 @@ publications:
     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     bibendum fringilla a eu lectus.
   papers:
-    - title: The Art of Computer Programming
-      link: '#'
-      authors: Donald E. Knuth
-      conference: Addison-Wesley, 1968
-
     - title: 'Genetic Programming III: Darwinian Invention &amp; Problem Solving'
       link: '#'
       authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
       conference: 'Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)'
-
-    - title: A syntax directed compiler for Algol 60
-      link: '#'
-      authors: Edgar T. Irons
-      conference: 'Comm. ACM 4 (1961), 51–55'
 
 skills:
   title: Skills &amp; Proficiency
