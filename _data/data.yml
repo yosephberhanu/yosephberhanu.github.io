@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Yoseph Berhanu
-  tagline: Developer, Teacher, Conslutant
+  tagline: Programming, Academics, Conslutancy
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -28,7 +28,7 @@ sidebar:
   # stack-overflow: # Number/Username, e.g. 123456/alandoe
   # codewars:
   # goodreads: # Number-Username, e.g. 123456-alandoe
-  pdf: http://www.africau.edu/images/default/sample.pdf
+  pdf: /assets/pdf/CV.pdf
 
   languages:
     title: Languages
@@ -83,28 +83,23 @@ education:
 experiences:
   title: Experiences
   info:
-    - role: Lecturer
-      time: 2014 - Present
+    - role: Graduate Assistant - Assistant Lecturer - Lecturer
+      time: 2010 - Present
       company: Department of Computer Science, Addis Ababa University, Ethiopia
       details: |
         <b>Courses Thought</b>: Introduction to Algorithms, Introduction to Computer Science, Introduction to Programming, Advanced Programming in Unix Environment, Object Oriented Programming.
         <br />
-        <b>Other tasks</b>: I am currently supervising a group of undergraduate students for a research project titled 4kbots with the aim of participating in the first RoboCup Soccer match in Africa under the medium size humanoid league, which is to be held by the end of 2016.
+        <b>Other tasks</b>: I established an undergraduate research & development lab at the Department of Computer science, 4K Labs, with brought students and faculty from multiple academic units together (i.e., Department of Computer Science, School of Electrical and Computer Engineering, and School of Mechanical Engineering) to work on cross-discipline research endeavors such as Robotics, Autonomies Vehicles and IoT. As one of the achievements of this Lab, we took part in the African RoboCup Soccer competition and won first prize. We have also won a small grant from the Internet Society to work on Smart Home Project.
+        <br />
+        Through this lab and other collaborations, I got the chance to work on projects with amazing students and colleagues. One such project is to build Amharic Morphological Generator as part of an effort to build a morphological analyzer for the Amharic language. The core idea behind the generator is to build a morphological tree from root words and prune the tree using a corpus of valid words with the aim of identifying valid inflectional rules in one of the most morphologically complex languages, Amharic. We managed to demonstrate proof of concept with a few sample roots and subsequent endeavors will focus on scaling the solution to all root words in the language.
+        <br />
+        Another project I've worked on with students is a decision support system for student advising using a rule-based declarative language. The primary goal of the project was to build a software architecture and a prototype that decoupled the business logic of the student information system at the university in order to make the rule editable without the need to rebuild the entire system again. Traditionally such a system is built using imperative programming languages such as Java, C#, or PHP where the rules of the system are hardcoded into a logical code block. This limited the flexibility of the system as business rules change. By decoupling this logic from the other components of the software it can be loaded from a logic engine built with technologies such as prolog at runtime. We developed a prototype e-advisor and demonstrated the feasibility of such architecture. 
+        Other projects I've worked on include a computer vision-based campus car parking management system, an organizational document metadata store, and a tracking system.
     - role: LIS consultant
       time: April 2022 - Present
       company: World Bank Group
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        The Land Management and Urban Upgrading Project (LMUP) aims to strengthen institutional capacity for land management and improve the living conditions of selected neighborhoods. My responsibility in the project is to support project scoping, design, and preparation. I help the Bank team and GoE to prepare the land management investments of the Project with a particular focus on situation analysis, recommendations (recommend design, effective implementation arrangements for project activities), and estimate costs and benefits of the proposed project.
     - role: Tech Lead
       time: Dec 2019 - Aug 2021
       company: Digital Medarbieder, Oslo
@@ -114,30 +109,16 @@ experiences:
       time: Jul 2021 - Present
       company: NIRAS Finland OY REILA Project
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: Graduate Assistant - Assistant Lecturer
-      time: 2010 - 2014
-      company: Department of Computer Science, Addis Ababa University, Ethiopia
+        I worked on the National Rural Land Information System (NRLAIS) developed for the Ministry of Agriculture, Ethiopia. My responsibilities include developing components of the system and overseeing the overall direction of the system as it evolves over time.
+    - role: Technical Lead
+      time: July 2018 – September 2018
+      company: World Resources Institute
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Establishing digital public transportation route management for Addis Ababa City. This included developing a data collection platform, setting standards and methodology for data collection, managing a group of students who worked as data collectors, and developing the final digital map along with teammates
 projects:
   title: Projects
   intro: >
-    You can list your side projects or open source libraries in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    I've worked on a number of projects at different companies which not all of them are open source. Hence, I've listed some of the open source projects and my side projects.
   assignments:
     - title: 4K Bots
       link: 'http://4kbots.com'
@@ -145,23 +126,19 @@ projects:
 
     - title: iMASSREG & iWORLAIS
       link: '#'
-      tagline: 'A responsive website template designed to help web developers/designers market their services.'
+      tagline: '....'
 
-    - title: Delta
-      link: '#'
-      tagline: 'A responsive Bootstrap one page theme designed to help app developers promote their mobile apps'
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-    - title: 'Genetic Programming III: Darwinian Invention &amp; Problem Solving'
-      link: '#'
-      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      conference: 'Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)'
+# publications:
+#   title: Publications
+#   intro: |
+#     You can list your publications in this section. Lorem ipsum dolor sit
+#     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#     bibendum fringilla a eu lectus.
+#   papers:
+#     - title: 'Genetic Programming III: Darwinian Invention &amp; Problem Solving'
+#       link: '#'
+#       authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#       conference: 'Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)'
 
 skills:
   title: Skills &amp; Proficiency
