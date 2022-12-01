@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Yoseph Berhanu
-  tagline: Programming, Academics, Conslutancy
+  tagline: Programming, Academia, Conslutancy
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -116,7 +116,7 @@ experiences:
       details: |
         Establishing digital public transportation route management for Addis Ababa City. This included developing a data collection platform, setting standards and methodology for data collection, managing a group of students who worked as data collectors, and developing the final digital map along with teammates
 projects:
-  title: Projects (Full list coming soon)
+  title: Projects
   intro: >
     I've worked on a number of projects at different companies which not all of them are open source. Hence, I've listed some of the open source projects and my side projects.
   assignments:
@@ -129,6 +129,7 @@ projects:
     - title: E-advisor
       tagline: 'I worked with my students on a project to build is a decision support system for student advising using a rule-based declarative language. The primary goal of the project was to build a software architecture and a prototype that decoupled the business logic of the student information system at the university in order to make the rule editable without the need to rebuild the entire system again. Traditionally such a system is built using imperative programming languages such as Java, C#, or PHP where the rules of the system are hardcoded into a logical code block. This limited the flexibility of the system as business rules change. By decoupling this logic from the other components of the software it can be loaded from a logic engine built with technologies such as prolog at runtime. We developed a prototype e-advisor and demonstrated the feasibility of such architecture.'
     - title: Small fun projects
+      link: 'http://github.com/yosephberhanu'
       tagline: I like to work on small fun projects for learning purposes. Some of these can be found under my github account.
     - title: Others
       tagline: Other projects I've worked on include a computer vision-based campus car parking management system, an organizational document metadata store, and a tracking system.
