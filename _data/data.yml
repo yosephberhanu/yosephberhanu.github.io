@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Yoseph Berhanu
-  tagline: Programming, Research, Conslutancy
+  tagline: Research and Software Development
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -44,17 +44,17 @@ sidebar:
     info:
       - item: Cognitive Support Systems
         link:
-
+      - item: Affective Computing
+        link:
       - item: Human Computer Interaction
         link:
-
-      - item: Affective Computing
+      - item: Software Engineering
         link:
 
 career-profile:
   title: Career Profile
   summary: |
-    I'm a graduate student in Computer Science at <a href="https://vt.edu" target="_blank">Virginia Tech</a> (Go Hokies!!). I'm interested in the intersection of Computer Science and Psychology and how we can build software tools that assist users powered by insight from psychology.
+    I'm a graduate student in Computer Science at <a href="https://vt.edu" target="_blank">Virginia Tech</a> (Go Hokies!!). I'm interested in the intersection of Computer Science and Psychology and how we can build software tools that assist users, specifically software developers,  powered by insight from psychology.
 
 education:
   title: Education
@@ -99,7 +99,7 @@ experiences:
       details: |
         As a software developer I built the systematic registration software (MASSREG) which was later integrated into the National Rural Land Information System (NRLAIS). I also developed an interim Woreda Rural Land Administration Information System (iWORLAIS) which served as an interim solution until NRLAIS was ready.
     - role: Lecturer
-      time: Sept 2014 -  Sept 2023)
+      time: Sept 2014 -  Sept 2023
       company: Department of Computer Science, Addis Ababa University
       url: http://www.aau.edu.et
       details: |
@@ -129,17 +129,21 @@ experiences:
 #     - title: Small fun projects
 #       link: 'http://github.com/yosephberhanu'
 #       tagline: I like to work on small fun projects for learning purposes. Some of these can be found under my github account.
-#     - title: Others
+# - title: Machine Learning Projects
+#   link: 'https://yosephberhanu.github.io/ml-blog'
+#   tagline: I write about my ML projects <a href='https://yosephberhanu.github.io/ml-blog'>here</a>.
+# - title: Software Development
+#   link: 'https://yosephberhanu.github.io/se-blog'
+#   tagline: I write about my open source and side projects <a href='https://yosephberhanu.github.io/se-blog'>here</a>.
+#      - title: Others
 #       tagline: Other projects I've worked on include a computer vision-based campus car parking management system, an organizational document metadata store, and a tracking system.
 # publications:
 #   title: Publications
 #   intro: |
-#     You can list your publications in this section. Lorem ipsum dolor sit
-#     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#     bibendum fringilla a eu lectus.
+#        Here is a partial list of my recent publications. You can find my the full list <a href='#'>here</a>.
 #   papers:
 #     - title: 'Genetic Programming III: Darwinian Invention &amp; Problem Solving'
-#       link: '#'
+#       link:
 #       authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
 #       conference: 'Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)'
 
