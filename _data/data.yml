@@ -88,7 +88,7 @@ experiences:
         I worked on the National Rural Land Information System (NRLAIS) developed for the Ministry of Agriculture, Ethiopia. My responsibilities include developing components of the system and overseeing the overall direction of the system as it evolves over time.
     - role: Tech Lead
       time: Dec 2019 - Aug 2021
-      company: Digital Medarbieder (no longer exists)
+      company: Digital Medarbieder
       url:
       details: |
         In addition to working as a tech lead, I design the CI/CD and Azure based deployment environment ( Azure App Service, Keyvault, Cosmos DB, Azure Functions, VMs etc..).
@@ -100,7 +100,7 @@ experiences:
         As a software developer I built the systematic registration software (MASSREG) which was later integrated into the National Rural Land Information System (NRLAIS). I also developed an interim Woreda Rural Land Administration Information System (iWORLAIS) which served as an interim solution until NRLAIS was ready.
     - role: Lecturer
       time: Sept 2014 -  Sept 2023)
-      company: Department of Computer Science, Addis Ababa University, Ethiopia
+      company: Department of Computer Science, Addis Ababa University
       url: http://www.aau.edu.et
       details: |
         <b>Courses Thought</b>: Introduction to Computer Science, Introduction to Programming, Advanced Programming in Unix Environment, Data Structures and Analysis of Algorithms, Theory of Algorithms, Object-Oriented Programming, Database Management Systems, High-Performance Computing.
